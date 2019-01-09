@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll, MFucka!"
+title:  "Игорь, привет! Я тебе говорил, что этот день настанет!"
 date:   2019-01-05 12:33:41 +0000
 categories: jekyll update
 ---
